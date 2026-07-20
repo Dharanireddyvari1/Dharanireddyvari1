@@ -12,7 +12,7 @@
 ### About me
 
 I build and maintain data pipelines, scrapers, and research tools that turn messy, real-world
-public data into structured, credible outputs people actually rely on — journalists,
+public data into structured, credible outputs people actually rely on, journalists,
 policymakers, researchers, and downstream ML systems. 4+ years across patent intelligence,
 pharma/regulatory data, and large-scale client scraping infrastructure.
 
@@ -25,7 +25,7 @@ to trust the output.
 - 🧩 Recently built a full entity-resolution pipeline matching messy correctional-facility records
   to jurisdictions for a public telecom-rate database (see pinned repo below)
 - 🌱 Interested in where deterministic data pipelines and LLM-assisted review genuinely
-  complement each other — and where they shouldn't be mixed
+  complement each other, and where they shouldn't be mixed
 - 💬 Ask me about: web scraping at scale, entity resolution / record linkage, PDF & OCR
   extraction, making pipelines legible to non-technical stakeholders
 
@@ -70,7 +70,7 @@ to trust the output.
 ### Featured projects
 
 **🔗 [Telecom Rate Entity-Resolution Pipeline](#)**
-Matches messy correctional-facility phone-rate records to county/state jurisdictions —
+Matches messy correctional-facility phone-rate records to county/state jurisdictions,
 classification + fuzzy record linkage (`recordlinkage`) with deterministic tie-breaking, an
 optional LLM-assisted review layer for low-confidence matches (isolated and clearly flagged, off
 by default), full test coverage, and an interactive Streamlit dashboard. Built to be reusable
