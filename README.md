@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Dharani 👋</h1>
-<h3 align="center">Staff Technologist · Data Pipelines, Web Scraping & Entity Resolution</h3>
+<h3 align="center">AI/Data Enginner · Data Pipelines, Web Scraping & Entity Resolution</h3>
 
 <p align="center">
-  <a href="mailto:reddyvaridharani05@gmail.com">📧 Email</a> ·
+  <a href="mailto:dharanireddyvari1@gmail.com">📧 Email</a> ·
   <a href="https://www.linkedin.com/in/dharani-r-56218a419/">💼 LinkedIn</a> ·
   <a href="https://dharanireddyvari.vercel.app/">🌐 Portfolio</a> ·
 </p>
